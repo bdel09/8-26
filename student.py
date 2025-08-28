@@ -3,5 +3,4 @@
 #Date: Aug 28 2025
 #This program prints: Hello, Benjamin Del Barrio
 
-print("Hello")
-print('Benjamin Del Barrio')
+print("Hello, Benjamin Del Barrio")
