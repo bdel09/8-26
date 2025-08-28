@@ -1,58 +1,7 @@
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "provenance": [],
-      "authorship_tag": "ABX9TyOSLWwecPIs96wCbKIxu94O",
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/bdel09/8-26/blob/main/student.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "code",
-      "execution_count": null,
-      "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "TkbVVivM0hBC",
-        "outputId": "458f8f29-aebd-45ed-f6e4-3f562383ee58"
-      },
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Hello, Benjamin Del Barrio\n"
-          ]
-        }
-      ],
-      "source": [
-        "#Name: Benjamin Del Barrio\n",
-        "#Email: benjamin.delbarrio31@myhunter.cuny.edu\n",
-        "#Date: Aug 28 2025\n",
-        "#This program prints: Hello, Benjamin Del Barrio\n",
-        "\n",
-        "print(\"Hello, Benjamin Del Barrio\")"
-      ]
-    }
-  ]
-}
+#Name: Benjamin Del Barrio
+#Email: benjamin.delbarrio31@myhunter.cuny.edu
+#Date: Aug 28 2025
+#This program prints: Hello, Benjamin Del Barrio
+
+print("Hello")
+print('Benjamin Del Barrio')
